@@ -23,6 +23,6 @@ DELETE /api/tasks/{id}
 2.删除id为3的任务
 ![删除特定人物](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/2.png)
 3.查询id为2的任务
-![查询特定任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/3.png)
+![查询特定任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/3.PNG)
 4.查询全部任务
-![查询全部任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/4.png)
+![查询全部任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/4.PNG)
