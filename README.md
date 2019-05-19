@@ -19,9 +19,10 @@ DELETE /api/tasks/{id}
 使用postman进行测试：
 
 1.依次创建3个任务
-
+![创建任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/1.png)
 2.删除id为3的任务
-
+![删除特定人物](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/2.png)
 3.查询id为2的任务
-
+![查询特定任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/3.png)
 4.查询全部任务
+![查询全部任务](https://raw.githubusercontent.com/liuying1019/springboot/master/screenshots/4.png)
